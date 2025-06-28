@@ -1,6 +1,6 @@
 # 📄 My Certifications
 
-This repository contains a collection of the certifications I have successfully completed across various domains in technology, data science, and finance, along with a few offer letters for internships and professional opportunities.
+This repository contains a collection of the certifications I have successfully completed across various domains in technology,along with a few offer letters for internships and professional opportunities.
 
 ## 📜 Certifications and Letters
 
