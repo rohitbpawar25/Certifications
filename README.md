@@ -1,49 +1,52 @@
 # 📄 My Certifications
 
-This repository contains a collection of the certifications I have successfully completed across various domains in technology, data science, and finance.
+This repository contains a collection of the certifications I have successfully completed across various domains in technology, data science, and finance, along with a few offer letters for internships and professional opportunities.
 
-## 📜 Certifications Achieved
+## 📜 Certifications and Letters
 
-- Artificial Intelligence  
-- DSA WITH PY  
-- POWER BI  
-- TECHINICAL ANALYSIS  
-- DATA SCIENCE 5MIN  
-- Fundamentals of AI and ML  
-- SQL  
-- FM&V  
-- Oops in C++  
-- Basics of Node  
-- DS&ML  
-- IBM  
-- Basics of React  
-- Python Programming  
-- Basics of Python  
-- Fundamentals of React Native  
-- Basics of Angular  
-- DATA SCIENCE 2  
-- Data Science  
-- Basics of Java  
-- ChatGPT  
-- Tree Plantation  
-- DSA  
-- System Design  
-- Python Projects  
-- Fundamental Analysis  
-- Blockchain  
-- Data Analytics  
-- Machine Learning  
-- Generative AI  
-- Risk Management  
-- Oops in Java  
-- UI & UX  
-- Basics of Machine Learning  
-- Basics of C++  
-- Fundamentals of CSS  
-- Basics of JavaScript  
-- Data Analytics 5MIN
+- CERTIF EXCEL  
+- CERTIF Artificial Intelligence  
+- CERTIF DSA WITH PY  
+- codsoft Letter  
+- CERTIF POWER BI  
+- CERTIF TECHINICAL ANALYSIS  
+- CERTIF DATA SCIENCE 5MIN  
+- zidio Offer Letter  
+- CERTIF Fundamentals of AI and ML  
+- CERTIF SQL  
+- CERTIF FM&V  
+- CERTIF Oops in C++  
+- CERTIF Basics of node  
+- CERT DS&ML  
+- CERTIF IBM  
+- CERTIF Basics of react  
+- CERTIF Python programming  
+- CERTIF Basics of python  
+- CERTIF Fundamentals of react native  
+- CERTIF Basics of angular  
+- CERTIF DATA SCIENCE 2  
+- CERTIF Data science  
+- CERTIF Basics of java  
+- CERTIF ChatGPT  
+- CERTIF tree plantation  
+- CERTIF DSA  
+- CERTIF System design  
+- OFFER LETTER OF PYTHON PROGRAMMING  
+- CERTIF Python Projects  
+- CERTIF FUNDAMENTAL ANALYSIS  
+- CERTIF Blockchain  
+- CERTIF DATA ANALYTICS  
+- CERTIF MACHINE LEARNING  
+- CERTIF Generative AI  
+- CERTIF RISK MANAGEMENT  
+- CERTIF Oops in java  
+- CERTIF UI&UX  
+- CERTIF Basics of machine learning  
+- CERTIF Basics of C++  
+- CERTIF Fundamentals of Css  
+- CERTIF Basics of javascript  
+- CERTIFI DATA ANALYTICS 5MIN
 
 ---
 
 > 📌 *Each certificate reflects my dedication to continuous learning and professional growth in the tech industry.*
-
