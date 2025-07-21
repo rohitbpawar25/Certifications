@@ -46,6 +46,7 @@ This repository contains a collection of the certifications I have successfully 
 - CERTIF Fundamentals of Css  
 - CERTIF Basics of javascript  
 - CERTIFI DATA ANALYTICS 5MIN
+- Stoic & Salamander Offer Letter
 
 ---
 
